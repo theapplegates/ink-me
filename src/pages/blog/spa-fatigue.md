@@ -14,4 +14,4 @@ description: There is a sweet spot of React - in moderately interactive interfac
 ---
 
 
-![Image Test](/public/images/uploads/DigitalOcean_.jpg)
+![Image Test](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Speed-Fiber-April13-2022.jpg)
